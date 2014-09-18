@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 This is a test for the user name. 
 I don't think it make stage clear to me. 
 Now it is on the way. 
+A status check. 
