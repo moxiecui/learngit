@@ -5,4 +5,4 @@ This is a test for the user name.
 I don't think it make stage clear to me. 
 Now it is on the way. 
 A status check. 
-Creating a new branch is quick AND simple & SHIT & beautiful. 
+Creating a new branch is quick AND simple & SHIT and beautiful. 
